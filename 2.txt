@@ -1,0 +1,3 @@
+Storyboards saved as a template can be updated and reused based on future needs. 
+
+Storyboards saved as a story will save the filters and KPI results along with the storyboard.
